@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonshape.xml",
+        "source": "E:\\android studio\\app\\src\\main\\res\\drawable-hdpi\\buttonshape.xml"
+    },
+    {
+        "merged": "E:\\android studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\android studio\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.jpg",
+        "source": "E:\\android studio\\app\\src\\main\\res\\drawable-hdpi\\back.jpg"
+    }
+]
